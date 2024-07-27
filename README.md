@@ -1,6 +1,6 @@
 # ST-LINK Mini with Mini B USB Jack
 
-Welcome to the ST-LINK Mini project! This repository contains the necessary files to create an ST-LINK mini device equipped with a mini B USB jack.
+Welcome to the ST-LINK Mini project! This repository contains the necessary files to modify an ST-LINK mini device to have a mini-B USB jack.
 
 ## Overview
 
